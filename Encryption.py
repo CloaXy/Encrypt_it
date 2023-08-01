@@ -18,4 +18,4 @@ def encryption(string,shift):               #function
 
 text = input("Enter a message: ")                   #user input
 s = int(input("Enter the distance value: "))        #shift key
-print("The encoded message is : ",encryption(text,s))       #encrypted message output
+print("The encoded message is : ",encryption(text,s))     #encrypted message output
